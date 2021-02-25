@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calendar-example/static/css/main.f3d1f0b9.chunk.css",
+    "main.js": "/calendar-example/static/js/main.0d1431d7.chunk.js",
+    "main.js.map": "/calendar-example/static/js/main.0d1431d7.chunk.js.map",
+    "runtime-main.js": "/calendar-example/static/js/runtime-main.f465903c.js",
+    "runtime-main.js.map": "/calendar-example/static/js/runtime-main.f465903c.js.map",
+    "static/js/2.1d6e1069.chunk.js": "/calendar-example/static/js/2.1d6e1069.chunk.js",
+    "static/js/2.1d6e1069.chunk.js.map": "/calendar-example/static/js/2.1d6e1069.chunk.js.map",
+    "static/js/3.02565003.chunk.js": "/calendar-example/static/js/3.02565003.chunk.js",
+    "static/js/3.02565003.chunk.js.map": "/calendar-example/static/js/3.02565003.chunk.js.map",
+    "index.html": "/calendar-example/index.html",
+    "static/css/main.f3d1f0b9.chunk.css.map": "/calendar-example/static/css/main.f3d1f0b9.chunk.css.map",
+    "static/js/2.1d6e1069.chunk.js.LICENSE.txt": "/calendar-example/static/js/2.1d6e1069.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/calendar-example/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f465903c.js",
+    "static/js/2.1d6e1069.chunk.js",
+    "static/css/main.f3d1f0b9.chunk.css",
+    "static/js/main.0d1431d7.chunk.js"
+  ]
+}
